@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="branding/logo.png" width="180" alt="B&B TECH logo">
-</p>
+![Logo do BB-Tech](branding/logo.png)
 
 # B&B TECH
 
