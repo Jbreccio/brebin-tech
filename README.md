@@ -1,4 +1,3 @@
-![Logo do BB-Tech](branding/logo.png)
 
 # B&B TECH
 
