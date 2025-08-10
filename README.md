@@ -1,7 +1,10 @@
+<p align="center">
+  <img src="branding/logo.png" width="180" alt="BREBIN TECH logo">
+</p>
 
-# B&B TECH
+# BREBIN TECH
 
-**B&B TECH** is a Brazilian innovation and technology company building next-generation AI-first software and infrastructure for developers, businesses, and startups.
+**BREBIN TECH** is a Brazilian innovation and technology company building next-generation AI-first software and infrastructure for developers, businesses, and startups.
 
 ## 🚀 Mission
 Empower developers with intelligent voice-based tools, automation platforms, and secure DevOps architectures.
@@ -11,9 +14,9 @@ Empower developers with intelligent voice-based tools, automation platforms, and
 - **[Other projects coming soon]*
 
 ## 📜 Legal
-B&B TECH is officially registered in Brazil under CNPJ XX.XXX.XXX/0001-XX.  
+BREBIN TECH is officially registered in Brazil under CNPJ 30.262.441/0001-52.  
 Patents and trademarks pending.
 
 ## 📩 Contact
-- Email: contato@bybb.tech
-- GitHub: [github.com/seuusuario](https://github.com/seuusuario)
+- Email: oibreccio@hotmail.com
+- GitHub: [github.com/Jbreccio](https://github.com/Jbreccio)
